@@ -1,0 +1,47 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Font Awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+
+//
+@import '~bootstrap-select/sass/bootstrap-select.scss';
+
+// Custom SCSS
+@import 'test2';
+
+@import 'header';
+/////@import 'inputs';
+
+@import 'editor';
+
+@import 'test';
+@import 'sidebar';
+
+@import 'copy';
+
+[data-href] {
+  cursor: pointer;
+}
+
+form {
+  margin-block-end: 0em;
+}
+
+table tr td
+{
+    padding: 0 !important;
+}
+
+table
+{
+    border-spacing : 0 !important;
+    border-collapse : collapse !important;
+}

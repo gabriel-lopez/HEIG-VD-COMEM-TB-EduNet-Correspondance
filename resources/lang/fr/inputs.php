@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'name' => 'Nom',
+    'first-name' => 'Prénom',
+    'last-name' => 'Nom',
+    'e-mail' => 'E-Mail',
+    'login' => 'Identifiant',
+    'birthdate' => 'Date de naissance',
+    'password' => 'Mot de passe',
+    'old-password' => 'Ancien mot de passe',
+    'password-confirmation' => 'Confirmation du mot de passe',
+    'canton' => 'Canton',
+    'class' => 'Classe',
+    'sex' => 'Sexe',
+    'sex-male' => 'Garçon',
+    'sex-female' => 'Fille',
+    'keywords' => 'Mot-clés',
+    'description' => 'Description',
+    'choose-class' => 'Choisir une classe',
+    'choose-canton' => 'Choisir un canton',
+    'choose-cantons' => 'Choisir un ou des cantons',
+    'choose-levels' => 'Chosir un ou des degrés',
+    'choose-keywords' => 'Choisir un ou des mots-clés',
+    'recipient' => 'Destinataire',
+    'subject' => 'Objet',
+    'admins' => 'Administrateurs',
+    'teachers' => 'Professeurs',
+    'text' => 'Texte',
+    'text-normalized' => 'Texte Normalisé',
+    'message' => 'Message'
+];
